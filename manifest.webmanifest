@@ -1,0 +1,16 @@
+{
+  "name": "음원 방향 탐색",
+  "short_name": "음원 방향",
+  "description": "노트북·폰의 마이크 2개로 소리가 오는 방향을 찾아 보여주는 앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080b20",
+  "theme_color": "#080b20",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
